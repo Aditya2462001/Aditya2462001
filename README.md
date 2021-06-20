@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aditya2462001
+- 👋 Hi, I’m Aditya Chandrikapure
 - 👀 I’m interested in Web developement
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on you
