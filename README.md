@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Aditya Chandrikapure
-- 👀 I’m interested in Web developement
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on you
+- 👀 I’m interested in Full-Stack Development
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborating with you
+- 👀 I have the skill set in Java, Python, Django, Spring boot, React, Angular, MySQL
 - 📫 How to reach me aditya2462001@gmail.com
 
 <!---
