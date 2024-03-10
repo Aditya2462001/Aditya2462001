@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://adityachandrikapure.pythonanywhere.com/](https://adityachandrikapure.pythonanywhere.com/)
 
-- 💬 Ask me about **Python, Java, React, Django, Spring Boot, Angular, Node.js, Mysql, postgreSQL**
+- 💬 Ask me about **Python, Java, React, Django, Spring Boot, Angular, Node.js, Mysql, PostgreSQL**
 
 - 📫 How to reach me **aditya2462001@gmail.com**
 
@@ -34,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya2462001&show_icons=true&locale=en&layout=compact" alt="aditya2462001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya2462001&show_icons=true&locale=en" alt="aditya2462001" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya2462001&" alt="aditya2462001" /></p>
