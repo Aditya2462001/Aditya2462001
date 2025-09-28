@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **aditya2462001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/178ld6pmBpZj2GUaEkuWf6KjPjCfKPryA/view?usp=sharing](https://drive.google.com/file/d/178ld6pmBpZj2GUaEkuWf6KjPjCfKPryA/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1HBLcbyl5H6bHH4SU-YFwOUN23srmcpQ-/view?usp=sharing]
 
 - ⚡ Fun fact **I think I am to supportive**
 
